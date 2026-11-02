@@ -1,1 +1,1 @@
-# my-first-project
+# my-first-project Изменения от второго участника.
